@@ -1,5 +1,5 @@
 ---
-title: "Foo Bar Identity"
+title: "Foo Bar Identity Foo Bar Identity  xxx"
 excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
 header:
   image: foo-bar-identity.jpg
