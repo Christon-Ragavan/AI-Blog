@@ -1,18 +1,10 @@
 # Authors
 
-Billy Rick:
-  name        : "Billy Rick"
-  uri         : "http://thewhip.com"
-  email       : "billy@rick.com"
-  bio         : "What do you want, jewels? I am a very extravagant man."
+Christon Ragavan:
+  name        : "Christon Ragavan Nadar"
+  uri         : "https://github.com/Christon-Ragavan/"
+  email       : "christonragavan@gmail.com"
+  bio         : "I am a interesting person"
   avatar      : "bio-photo-2.jpg"
-  twitter     : "extravagantman"
-  google_plus : "BillyRick"
+  google_plus : "christonragavan"
 
-Cornelius Fiddlebone:
-  name        : "Cornelius Fiddlebone"
-  email       : "cornelius@thewhip.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "rhymeswithsackit"
-  google_plus : "CorneliusFiddlebone"
